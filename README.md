@@ -4,4 +4,5 @@
 ![Completed](/photos/result.png)
 
 ## Software
-Diptrace v4
+Diptrace v4 - pcb
+Autodesk Fusion 360 - case
