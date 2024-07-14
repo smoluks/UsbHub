@@ -10,6 +10,8 @@ Optional:
 Case printed on 3d printer: https://www.thingiverse.com/thing:4348145
 
 ![Completed](/photos/result.png)
+![PCB Assembled Bottom](/photos/Bottom.jpg)
+![PCB Assembled Top](/photos/Top.jpg)
 
 [Schematics](/artefacts/sch.pdf)
 
