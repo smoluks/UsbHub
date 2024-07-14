@@ -1,6 +1,7 @@
 # UsbHub
-Simple 4-port hub on FE1.1S with optional overcurrent protection on MIC2026 and EEPROM for ID
-Cape printed on 3d printer: https://www.thingiverse.com/thing:4348145
+Simple 4-port hub on FE1.1S with optional overcurrent protection on MIC2026 and EEPROM for ID;
+
+Case printed on 3d printer: https://www.thingiverse.com/thing:4348145
 
 ![Completed](/photos/result.png)
 
